@@ -1,4 +1,4 @@
-Terminal-Based Warhammer AI
+Terminal-Based Warhammer AI(without API)
 
 Autonomous AI agent designed to simulate and play Warhammer-style strategy combat through heuristic evaluation and minimax-based decision making.
 
